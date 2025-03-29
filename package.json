@@ -1,0 +1,17 @@
+{
+  "name": "web3-strorage-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload.js",
+  "type": "module",
+  "scripts": {
+    "start": "node upload.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@web3-storage/w3up-client": "^17.2.0",
+    "dotenv": "latest",
+    "files-from-path": "latest"
+  }
+}
